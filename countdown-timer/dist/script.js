@@ -59,7 +59,7 @@ class Countdown {
   }
 }
 
-const countdown = new Countdown().setDuration(10);
+const countdown = new Countdown().setDuration(60);
 
 const label = document.querySelector('.time');
 
