@@ -43,3 +43,13 @@ button {
   border-radius:8px;
 }
 
+footer {
+  font-size: 1rem;
+  position: fixed;
+  bottom: 0.4rem;
+  right: 1rem;
+  text-align: right;
+  padding: 1rem;
+  color:#3B826B;
+}
+
