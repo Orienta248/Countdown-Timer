@@ -61,7 +61,7 @@ class Countdown {
 
 const countdown = new Countdown().setDuration(60);
 
-const label = document.querySelector('.time');
+const label = document.querySelector('.time'); 
 
 document.querySelector('.pause').addEventListener('click', () => {
   countdown.pause();
